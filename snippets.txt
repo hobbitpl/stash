@@ -1,0 +1,42 @@
+find /home/hobbit/public_html/meblegama_pl_prod/ -type f -exec grep -H 'Musisz potwierdzić autentyczność ' {} \;
+
+
+https://cloud.egears.pl/remote.php/webdav/hobbit.kdbx
+
+
+
+
+[server]$ git remote add origin https://github.com/<username>/<app_name>
+
+    View the following links for details:
+
+        Working with Remotes
+        Adding a Remote
+
+Push your repository to GitHub
+
+[server]$ git push origin master
+
+
+----------------
+cd /home/hobbit/tmp/studia_bpm/abc/output_bitonal/ && time djvubind &&
+cd /home/hobbit/tmp/studia_bpm/ankieta_example/output_bitonal/ && time djvubind &&
+cd /home/hobbit/tmp/studia_bpm/aspekty_psychospoleczne_BPM/output_bitonal/ && time djvubind &&
+cd /home/hobbit/tmp/studia_bpm/bpm_it_tools/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/bpm_mapping/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/cases_cwiczenia/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/drzewaDecyzyjne/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/klientWewnetrzny/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/metodyBadaniaRyzykaDzialanosciAnalizaFinansowa/output_bitonal/ && time djvubind &&
+cd /home/hobbit/tmp/studia_bpm/metodykaOperacjonalizacjiStrategii_MOST/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/metodykaOperacjonalizacjiStrategii_MOST_notes/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/metodyMatematyczne/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/optymalizacjaProcesow/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/rachunkowosZarzadcza/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/raportDoradczy/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/wprowadzenieDoZarzadzaniaProcesowego_MapowanieProcesow/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/zarzadzanieProcesowe_notes/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/zarzadzanieProcesowe_wyklad_wprowadzajacy/output_bitonal/ && time djvubind && 
+cd /home/hobbit/tmp/studia_bpm/zespolowoscInterdyscyplinarnosc/output_bitonal/ &&  time djvubind
+
+

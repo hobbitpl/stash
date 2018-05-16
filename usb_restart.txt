@@ -1,0 +1,1 @@
+rmmod ehci_pci && sleep 2 && modprobe ehci_pci
