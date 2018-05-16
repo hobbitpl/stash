@@ -1,9 +1,6 @@
 find /home/hobbit/public_html/meblegama_pl_prod/ -type f -exec grep -H 'Musisz potwierdzić autentyczność ' {} \;
 
 
-https://cloud.egears.pl/remote.php/webdav/hobbit.kdbx
-
-
 
 
 [server]$ git remote add origin https://github.com/<username>/<app_name>
